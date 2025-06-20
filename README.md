@@ -1,6 +1,7 @@
 
 # Project BDM  
 > NOTE: MDS mandatory subject
+
 *The Data Management Stages of the BDM Project*
 
 ## Overview
