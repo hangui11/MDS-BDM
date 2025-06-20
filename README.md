@@ -146,12 +146,14 @@ This folder contains scripts used for the **Consumption Layer** to visualize the
 
 ---
 
-#### **`Test/`**
+#### **`Test/Data Management Test`**
 
 Contains unit tests to verify the functionality of project components.
 
 - **`Data Ingestion Test/`**: Tests for ingestion-related scripts.
 - **`Landing Zone Test/`**: Tests for Landing Zone management logic.
+- **`Trusted Zone Test/`**: Tests for Trusted Zone cleaning tasks.
+- **`Exploitation Zone Test/`**: Tests for Exploitation Zone distributions.
 
 ---
 
