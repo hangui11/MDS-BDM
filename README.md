@@ -32,7 +32,7 @@ A graphical interface (script-based) with four main functions accessible via but
 
 ---
 
-### 🟩 **Start Batch Ingestion, Data Enrichment & Data Preparation**  
+##### 🟩 **Start Batch Ingestion, Data Enrichment & Data Preparation**  
 **Status:** Enabled by default  
 
 **Functionality:**  
@@ -55,7 +55,7 @@ Runs a end-to-end pipeline that:
 
 ---
 
-### 🔴 **Start Streaming Ingestion (Hot Path)**  
+##### 🔴 **Start Streaming Ingestion (Hot Path)**  
 **Status:** Enabled by default  
 
 **Functionality:**  
@@ -66,7 +66,7 @@ Simulates real-time data ingestion by fetching and printing data immediately.
 
 ---
 
-### 🟠 **Start Streaming Ingestion (Warm Path)**  
+##### 🟠 **Start Streaming Ingestion (Warm Path)**  
 **Status:** Enabled by default  
 
 **Functionality:**  
@@ -77,7 +77,7 @@ Simulates near real-time ingestion, fetching and printing data every minute (int
 
 ---
 
-### 🔎 **Check Code Quality**  
+##### 🔎 **Check Code Quality**  
 **Status:** Enabled by default  
 
 **Functionality:**  
