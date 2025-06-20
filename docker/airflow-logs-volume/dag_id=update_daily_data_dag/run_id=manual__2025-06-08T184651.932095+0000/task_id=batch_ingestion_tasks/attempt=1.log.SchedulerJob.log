@@ -1,0 +1,1 @@
+[2025-06-08T18:46:54.214+0000] {scheduler_job_runner.py:781} ERROR - Executor reports task instance <TaskInstance: update_daily_data_dag.batch_ingestion_tasks manual__2025-06-08T18:46:51.932095+00:00 [queued]> finished (failed) although the task says it's queued. (Info: None) Was the task killed externally?
